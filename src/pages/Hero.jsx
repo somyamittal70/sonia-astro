@@ -275,7 +275,7 @@ const Hero = ({ onBookNow }) => {
           <div
             style={{
               width: "100%",
-              maxWidth: isLargeScreen ? "620px" : isTablet ? "52%" : "520px",
+              maxWidth: isLargeScreen ? "620px" : isTablet ? "52%" : "500px",
               textAlign: isTablet || isLargeScreen ? "left" : "center",
             }}
           >

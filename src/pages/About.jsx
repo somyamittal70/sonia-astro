@@ -173,7 +173,7 @@ const About = () => {
       ref={wrapRef}
       style={{
         background: "#fff",
-        padding: "100px 5%",
+        padding: "50px 5%",
         position: "relative",
         overflow: "hidden",
       }}
