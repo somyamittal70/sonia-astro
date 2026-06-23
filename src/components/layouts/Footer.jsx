@@ -307,7 +307,7 @@ const Footer = () => (
           </h4>
           <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
             {[
-              [MapPin, "j 12 Pandav nagar , Akshardham,delhi -110092"],
+              [MapPin, "J-12 Pandav nagar , Akshardham,delhi -110092"],
               [Phone, "+91-9873523528"],
               [Mail, "sandeepkaur18oct@gmail.com"],
             ].map(([Icon, text]) => (
