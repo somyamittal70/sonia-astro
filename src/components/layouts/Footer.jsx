@@ -96,7 +96,7 @@ const Footer = () => (
 
       .fab-call {
         left: 24px;
-        background: linear-gradient(135deg, #3d1960 0%, #6b2fa0 100%);
+        background: linear-gradient(135deg, #5a0a0a 0%, #c31432 100%);
         color: #ebd074;
         border: 1px solid rgba(201,168,76,0.35);
       }

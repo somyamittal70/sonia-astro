@@ -221,7 +221,6 @@ const Destiny = () => {
         padding: "50px 5%",
         position: "relative",
         overflow: "hidden",
-        marginTop: 40,
       }}
     >
       <canvas
@@ -243,7 +242,7 @@ const Destiny = () => {
           zIndex: 1,
         }}
       >
-        <div className="grid-2" style={{ gap: 80 }}>
+        <div className="grid-2" style={{ gap: 40 }}>
           {/* LEFT SIDE IMAGE */}
 
           <Reveal dir="left">

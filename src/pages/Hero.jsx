@@ -286,7 +286,7 @@ const Hero = ({ onBookNow }) => {
                 fontSize: t.h1,
                 color: "#4b267c",
                 lineHeight: 1.18,
-                marginTop: 50,
+                marginTop: 30,
                 marginBottom: h1Mb,
                 fontWeight: 700,
                 letterSpacing: isLargeScreen ? "-0.5px" : "0",
