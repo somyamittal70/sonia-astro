@@ -332,7 +332,7 @@ const Hero = ({ onBookNow }) => {
             >
               {[
                 { label: "✦ Book Your Clarity Session", href: "#booknow",                    onClick: (e) => { e.preventDefault(); onBookNow(); } },
-                { label: "Chat on WhatsApp",             href: "https://wa.me/918750803540", external: true },
+                { label: "Chat on WhatsApp",             href: "https://wa.me/919873523528", external: true },
               ].map(({ label, href, onClick, external }) => (
                 <a
                   key={label}
